@@ -1,7 +1,7 @@
 
 ## Mostra  i branch locali (*  = corrente )
 
-````git branch```
+```git branch```
 
 ## Crea un nuovo branch
 
